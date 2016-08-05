@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="5dp"
+    android:layout_marginBottom="5dp"
+    >
+
+    <ImageView
+        android:id="@+id/miniatura_visita"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:id="@+id/precio_visita"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left|bottom"
+        android:layout_marginBottom="70dp"
+        android:paddingLeft="10dp"
+        android:text="Large Text"
+        android:textColor="@android:color/white"
+        android:textSize="48sp"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/nombre_titulo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="40dp"
+        android:textAlignment="center"
+        android:text="Medium Text"
+        android:textStyle="italic"
+        android:textSize="28sp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Title"
+        android:textColor="@android:color/white" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/TextAppearance.AppCompat.Title"
+        android:text="@string/descripcion_toledo_imprescindible"
+        android:id="@+id/descripcion"
+        android:textColor="@android:color/white"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/TextAppearance.AppCompat.Title"
+        android:text="Medium Text"
+        android:id="@+id/horario"
+        android:textColor="@android:color/white"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="10dp"
+        android:lines="2"
+        android:layout_gravity="left|bottom" />
+</FrameLayout>

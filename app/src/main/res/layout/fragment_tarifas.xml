@@ -1,0 +1,264 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.FragmentoTarifas">
+
+ <TableLayout
+
+     android:layout_margin="10dp"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content">
+
+        <TableRow
+            android:background="#ffffff"
+            android:id="@+id/tableRow1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5dip" >
+
+            <TextView
+                android:textSize="12sp"
+                android:layout_weight="5"
+                android:id="@+id/textView11"
+                android:text="@string/alcazar_tarifa"
+                />
+
+            <TextView
+                android:textSize="12sp"
+                android:layout_weight="5"
+                android:id="@+id/textView12"
+                android:text="@string/alcazar_precio"
+                />
+        </TableRow>
+     <TableRow
+
+         android:id="@+id/tableRow2"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:padding="5dip" >
+
+         <TextView
+             android:textSize="12sp"
+             android:layout_weight="5"
+             android:id="@+id/textView21"
+             android:text="@string/catedral_tarifa"
+             />
+
+         <TextView
+             android:textSize="12sp"
+             android:layout_weight="5"
+             android:id="@+id/textView22"
+             android:text="@string/catedral_precio"
+             />
+     </TableRow>
+     <TableRow
+         android:background="#ffffff"
+         android:id="@+id/tableRow3"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:padding="5dip" >
+
+         <TextView
+             android:textSize="12sp"
+             android:layout_weight="5"
+             android:id="@+id/textView31"
+             android:text="@string/sinagoga_tarifa"
+            />
+
+         <TextView
+             android:textSize="12sp"
+             android:layout_weight="5"
+             android:id="@+id/textView32"
+             android:text="@string/sinagoga_precio"
+             />
+     </TableRow>
+     <TableRow
+
+         android:id="@+id/tableRow4"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:padding="5dip" >
+
+         <TextView
+             android:textSize="12sp"
+             android:layout_weight="5"
+             android:id="@+id/textView41"
+             android:text="@string/museo_greco_tarifa"
+             />
+
+         <TextView
+             android:textSize="12sp"
+             android:layout_weight="5"
+             android:id="@+id/textView42"
+             android:text="@string/museo_greco_precio"
+             />
+     </TableRow>
+     <TableRow
+         android:background="#ffffff"
+         android:id="@+id/tableRow5"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:padding="5dip" >
+
+         <TextView
+             android:textSize="12sp"
+             android:layout_weight="5"
+             android:id="@+id/textView51"
+             android:text="@string/stotome_tarifa"
+              />
+
+         <TextView
+             android:textSize="12sp"
+             android:layout_weight="5"
+             android:id="@+id/textView52"
+             android:text="@string/stotome_precio"
+             />
+     </TableRow>
+     <TableRow
+         android:id="@+id/tableRow6"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:padding="5dip" >
+
+         <TextView
+             android:textSize="12sp"
+             android:layout_weight="5"
+             android:id="@+id/textView61"
+             android:text="@string/sinagoga_tarifa"
+            />
+
+         <TextView
+             android:textSize="12sp"
+             android:layout_weight="5"
+             android:id="@+id/textView62"
+             android:text="@string/sinagoga_precio"
+             />
+     </TableRow>
+     <TableRow
+         android:background="#ffffff"
+         android:id="@+id/tableRow7"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:padding="5dip" >
+
+         <TextView
+             android:textSize="12sp"
+             android:layout_weight="5"
+             android:id="@+id/textView71"
+             android:text="@string/san_juan_tarifa"
+             />
+
+         <TextView
+             android:textSize="12sp"
+             android:layout_weight="5"
+             android:id="@+id/textView72"
+             android:text="@string/san_juan_precio"
+              />
+     </TableRow>
+     <TableRow
+         android:id="@+id/tableRow8"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:padding="5dip" >
+
+         <TextView
+             android:textSize="12sp"
+             android:layout_weight="5"
+             android:id="@+id/textView81"
+             android:text="@string/mezquita_tarifa"
+             />
+
+         <TextView
+             android:textSize="12sp"
+             android:layout_weight="5"
+             android:id="@+id/textView82"
+             android:text="@string/mezquita_precio"
+            />
+     </TableRow>
+     <TableRow
+     android:background="#ffffff"
+     android:id="@+id/tableRow9"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:padding="5dip" >
+
+     <TextView
+         android:textSize="12sp"
+         android:layout_weight="5"
+         android:id="@+id/textView91"
+         android:text="@string/iglesia_salvador_tarifa"
+        />
+
+     <TextView
+         android:textSize="12sp"
+         android:layout_weight="5"
+         android:id="@+id/textView92"
+         android:text="@string/iglesia_salvador_precio"
+         />
+ </TableRow>
+     <TableRow
+         android:id="@+id/tableRow10"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:padding="5dip" >
+
+         <TextView
+             android:textSize="12sp"
+             android:layout_weight="5"
+             android:id="@+id/textView101"
+             android:text="@string/museo_sta_cruz_tarifa"
+             />
+
+         <TextView
+             android:textSize="12sp"
+             android:layout_weight="5"
+             android:id="@+id/textView102"
+             android:text="@string/museo_sta_cruz_precio"
+             />
+     </TableRow>
+     <TableRow
+         android:background="#ffffff"
+         android:id="@+id/tableRow11"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:padding="5dip" >
+
+         <TextView
+             android:textSize="12sp"
+             android:layout_weight="5"
+             android:id="@+id/textView111"
+             android:text="@string/iglesia_san_roman_tarifa"
+             />
+
+         <TextView
+             android:textSize="12sp"
+             android:layout_weight="5"
+             android:id="@+id/textView112"
+             android:text="@string/iglesia_san_roman_precio"
+             />
+     </TableRow>
+     <TableRow
+         android:id="@+id/tableRow12"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:padding="5dip" >
+
+         <TextView
+             android:textSize="12sp"
+             android:layout_weight="5"
+             android:id="@+id/textView121"
+             android:text="@string/san_juan_bau_tarifa"
+              />
+
+         <TextView
+             android:textSize="12sp"
+             android:layout_weight="5"
+             android:id="@+id/textView122"
+             android:text="@string/san_juan_bau_precio"
+              />
+     </TableRow>
+
+ </TableLayout>
+
+</FrameLayout>

@@ -1,0 +1,182 @@
+<resources>
+    <string name="app_name">ToledoGuiado</string>
+    <string name="title_activity_main">ToledoGuiado</string>
+    <string name="title">ToledoGuiado</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="info">Conócenos</string>
+    <string name="visitas">Visitas guiadas</string>
+    <string name="grupos">Grupos</string>
+    <string name="reservas">Reservas</string>
+    <string name="contacto">Contacto</string>
+    <string name="share">Compartir</string>
+    <string name="mapa">Mapa</string>
+    <string name="fav">Favoritos</string>
+    <string name="tarifas">Tarifas de Monumentos</string>
+    <string name="salir">Salir</string>
+    <string name="title_activity_bio">Conócenos</string>
+    <string name="title_activity_bio2">¿Por qué elegir TOLEDO GUIADO?</string>
+
+    <string name="twitter">Twitter</string>
+    <string name="facebook">Facebook</string>
+    <!-- Reservas-->
+
+    <string name="reserva_nombre">Nombre y Apellidos</string>
+    <string name="reserva_telefono">Teléfono de contacto</string>
+    <string name="reserva_correo">E-mail</string>
+    <string name="reserva_fecha">Fecha</string>
+    <string name="reserva_num_personas">Número de personas</string>
+    <string name="reserva_observaciones">Observaciones</string>
+    <string-array name="android_layout_arrays">
+        <item>Visitas disponibles</item>
+        <item>Toledo Imprescindible</item>
+        <item>Toledo subterráneo</item>
+        <item>Ruta nocturna</item>
+        <item>Tres culturas</item>
+    </string-array>
+
+    <!-- Contacto-->
+
+    <string name="etiqueta_info_contacto">Si lo prefiere puede ponerse en contacto con nosotros mediante este formulario online:</string>
+    <string name="contacto_suemail">Su email</string>
+    <string name="contacto_asunto">Asunto</string>
+    <string name="contacto_mensaje">Su mensaje</string>
+    <string name="contacto_sunombre">Su Nombre</string>
+
+
+    <string name="action_settings">Settings</string>
+
+     <string name="bio_text_1">
+    Mi nombre es Beatriz Arredondo,<b> guía oficial de turismo</b>, licenciada en Humanidades con Máster de Especialista en Cultura y Patrimonio y miembro de la <b>Asociación de Guías Oficiales Alficén</b>.
+    </string>
+      <string name="bio_text_2">
+   Tras una década dedicada al mundo del turismo, los museos y la cultura me he embarcado en nuevo proyecto con el que pretendo compartir mi pasión por Toledo con todos aquellos que me den la oportunidad. Me gustaría enseñaros no solo sus <b>monumentos</b> y su <b>historia</b>, sino también sus <b>lugares escondidos</b>, sus <b>leyendas</b> y sus <b>secretos</b>.
+    </string>
+      <string name="bio_text_3">
+    Mi objetivo es enseñar <b>lo mejor de Toledo</b>, pero sin aburrir. Mis visitas guiadas pretenden llegar a una armonía entre lo académico y lo anecdótico. Quiero enseñaros los monumentos toledanos, pero no solo como si fuese una clase de historia o de arte, también os quiero contar sus secretos y datos curiosos.
+    </string>
+      <string name="bio_text_4">
+    Lo más importante en Toledo Guiado son tus preferencias. No quiero enseñarte cosas que ya conoces o no te interesan. Las visitas para grupos se hacen en colaboración contigo. La clave del éxito de una visita es que encuentres exactamente lo que buscas. Consulta las visitas para grupos.
+    </string>
+      <string name="bio_text_5">
+    He elaborado también un catálogo de visitas para particulares en las que, al no poder tener en cuenta las preferencias de todos y cada uno los que me acompañáis, he diseñado unos recorridos en los que creo que os sentiréis cómodos tanto los más interesados por los monumentos, como los que preferís dejaros llevar por la magia y el misterio de la ciudad. Consulta las visitas para particulares.
+    </string>
+    <string name="title_activity_contacto">Contacto</string>
+
+    <string name="title_activity_visitas">Visitas Guiadas</string>
+    <string name="title_grupos_visitas">Rutas guiadas para grupos</string>
+    <string name="title_grupos_mapa">Mapa</string>
+    <string name="title_bio_info">Conócenos</string>
+    <string name="descripcion_toledo_subterraneo">
+        Visitaremos cuatro subterráneos únicos que te acercarán al Toledo más desconocido.
+
+    </string>
+    <string name="descripcion_toledo_tresculturas">
+        Mezquita del Cristo de la Luz, Sinagoga del Tránsito y San Juan de los Routa.
+    </string>
+    <string name="descripcion_toledo_imprescindible">
+        Visitamos la Catedral, el Entierro del Señor de Orgaz del Greco y la Sinagoga de Santa María la Blanca.
+        ¡Entradas a monumentos incluidas!.
+        ¡Paga solo 15 € si tienes la pulsera turística o si quieres cómprala durante la ruta!
+    </string>
+    <string name="descripcion_toledo_ruta_nocturna">
+        Nos paramos en los rincones con más encanto y te contamos lo mejor del Toledo más desconocido
+        para hacerte sentir la magia de la ciudad.
+    </string>
+    <string name="tres_culturas">
+        Toledo es conocida como la ciudad de las Tres Culturas, pero ¿qué hay de cierto en la supuesta convivencia
+        pacífica entre judíos, musulmanes y cristianos? Durante el recorrido intentamos desterrar los mitos que hay sobre este tema.
+        Además visitaremos el interior de los monumentos más significativos de cada una de las tres religiones en la ciudad.
+        Contaremos también anécdotas y curiosidades toledanas.
+        Monumentos que se visitan: Mezquita del Cristo de la Luz, Catedral y la sinagoga que queráis vosotros (Santa María la Blanca o la Sinagoga del Tránsito).
+
+    </string>
+    <string name="toledo_monumental">
+        Visitamos el interior de tres monumentos fundamentales para entender la historia y el arte de la ciudad de Toledo: Catedral, San Juan de los Reyes y
+        la sinagoga que tú elijas (Santa María la Blanca o la Sinagoga del Tránsito).
+        Además el recorrido se realiza por las principales calles y plazas de la ciudad, para que podáis tener al final de la visita una visión lo más completa
+        posible de Toledo.
+    </string>
+    <string name="toledo_leyendas_anectodas">
+        Algunas calles parecen detenidas en el tiempo, en otras dicen haber visto sombras solitarias y en casi todas ecos lejanos nos recuerdan la gran historia de Toledo.
+        Visita guiada por las calles más emblemáticas de la ciudad, en la que se contarán las leyendas más conocidas y los hechos más curiosos.
+        Se trata de una recorrido exterior para hacer preferiblemente aprovechando el misterio que proporciona la noche.
+    </string>
+    <string name="toledo_puertas_murallas">
+        Recorreremos el interior de las puertas más conocidas de la ciudad y de una que no lo es tanto. Podremos caminar por la parte alta de las murallas
+        y ponernos en el papel de los vigilantes de una ciudad que ostentó con orgullo el título de no haber sido conquistada por las armas gracias a sus
+        fuertes defensas. Se visitará el interior de la Puerta de Alfonso VI, Puerta de Bisagra y nos adentraremos en las entrañas de la tierra para visitar
+        la Puerta del Vado, oculta durante varios siglos y hoy enterrada.
+    </string>
+
+    <string name="toledo_a_carta">
+        ¿No encuentras lo que buscas? ¿Quieres decidir tú qué sitios visitar? Dinos lo que quieres y nos adaptamos a tus gustos y necesidades.
+    </string>
+
+    <string name="info_ayuda">
+        IMPRESCINDIBLE RESERVA\n
+        ¡PLAZAS LIMITADAS!\n
+        ¡REALIZACIÓN RESERVAS CON 48h \n
+        DE ANTELACIÓN.\n
+    </string>
+     <string name="info_ayuda_grupos">
+         <b><u>Para visitas individuales:</u></b>\n
+        ¡Niños menores de 10 años <b>GRATIS</b>!\n
+        ¡Entradas a monumentos INCLUIDAS!\n
+        <b><u>Para visitas con grupos:</u></b>\n
+         Realizamos visitas guiadas para grupos en las que nuestro principal objetivo\n
+         es mostrarte lo mejor de Toledo de una manera amena.\n
+         Te proponemos unos recorridos para visitar
+         la ciudad,pero si no encuentras\n
+         lo que buscas escríbenos y nos adaptamos a\n
+         tus intereses,horarios y necesidades.\n
+         En cualquier caso, el día, la hora y\n
+         el punto de salida lo pones tú.\n
+         También puedes hacer modificaciones en las rutas que te proponemos.
+    </string>
+
+
+    <string name="title_activity_reservas">Reservas</string>
+    <string name="title_activity_mapa">Mapa</string>
+    <string name="title_activity_info">Info</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--Items menu-->
+    <string name="item_inicio">Inicio</string>
+
+
+    <!--Tarifas-->
+    <string name="catedral_tarifa">Catedral</string>
+    <string name="catedral_precio">8€ (gratis domingo tarde solo españoles).</string>
+    <string name="alcazar_tarifa">Alcázar / Museo del Ejército</string>
+    <string name="alcazar_precio">5€ (gratis domingo mañana).</string>
+    <string name="sinagoga_tarifa">Sinagoga del Tránsito</string>
+    <string name="sinagoga_precio">3€(gratis sábado tarde y domingo mañana).</string>
+    <string name="museo_greco_tarifa">Museo del Greco</string>
+    <string name="museo_greco_precio">3 € (gratis sábado tarde y domingo mañana).</string>
+    <string name="stotome_tarifa">Iglesia de Sto. Tomé/ Entierro del Señor de Orgaz</string>
+    <string name="stotome_precio">2,5 €</string>
+    <string name="sta_maria_blanca_tarifa">Sinagoga de Sta. María la Blanca</string>
+    <string name="sta_maria_blanca_precio">2,5 €</string>
+    <string name="san_juan_tarifa">San Juan de los Reyes</string>
+    <string name="san_juan_precio">2,5 €</string>
+    <string name="mezquita_tarifa">Mezquita del Cristo de la Luz</string>
+    <string name="mezquita_precio">2,5 €</string>
+    <string name="iglesia_salvador_tarifa">Iglesia del Salvador</string>
+    <string name="iglesia_salvador_precio">2,5 €</string>
+    <string name="museo_sta_cruz_tarifa">Museo de Santa Cruz</string>
+    <string name="museo_sta_cruz_precio">6 € (entrada conjunta con San Román).</string>
+    <string name="iglesia_san_roman_tarifa">Iglesia de san Román/Museo de la Cultura Visigoda</string>
+    <string name="iglesia_san_roman_precio">6 € (entrada conjunta con el Museo de Santa Cruz).</string>
+    <string name="san_juan_bau_tarifa">Hospital de San Juan Bautista/ Tavera</string>
+    <string name="san_juan_bau_precio">6 € (iglesia, sacristía y museos).</string>
+    <string name="reservar">Reservar</string>
+
+    <string name="titulo_inicio">Descubre Toledo</string>
+    <string name="subtitulo_inicio">Todo esto y mucho más con un Guia Oficial de Turismo</string>
+    <string name="subtitulo_inicio2">670 402 486</string>
+
+
+</resources>

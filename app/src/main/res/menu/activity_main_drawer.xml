@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_inicio"
+            android:checked="true"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/item_inicio" />
+        <item
+            android:id="@+id/nav_info"
+            android:icon="@drawable/ic_info_24dp"
+            android:title="@string/info" />
+        <item
+            android:id="@+id/nav_visitas"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/visitas" />
+        <item
+            android:id="@+id/nav_grupos"
+            android:icon="@drawable/ic_people_24dp"
+            android:title="@string/grupos" />
+        <item
+            android:id="@+id/nav_reservas"
+            android:icon="@drawable/ic_reserva_24dp"
+            android:title="@string/reservas" />
+        <item
+            android:id="@+id/nav_contacto"
+            android:icon="@drawable/ic_quick_contacts_mail_24dp"
+            android:title="@string/contacto" />
+        <item
+            android:id="@+id/nav_mapa"
+            android:icon="@drawable/ic_map_black_24dp"
+            android:title="@string/mapa" />
+        <item
+            android:id="@+id/nav_tarifas"
+            android:icon="@drawable/ic_local_atm_black_24dp"
+            android:title="@string/tarifas" />
+    </group>
+
+    <item android:title="Siguenos">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_facebook"
+                    android:icon="@drawable/facebook_color"
+                    android:title="@string/facebook" />
+                <item
+                    android:id="@+id/nav_twitter"
+                    android:icon="@drawable/twitter_color"
+                    android:title="@string/twitter" />
+            </group>
+        </menu>
+    </item>
+
+</menu>
